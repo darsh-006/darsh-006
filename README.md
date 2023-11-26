@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm [Your Name]!
+# 👋 Hello there, I'm [Darshan]!
 
 Welcome to my GitHub profile! I'm passionate about data science, business intelligence, and creating delightful UI/UX experiences. Here you'll find a collection of my projects and contributions in these domains.
 
